@@ -15,10 +15,13 @@
 
 
 **Requisitos Para Esse Craft**
+| Messas |
+|-------------|
+| Oficna do consetador |
 
-| Items | Messas |
-|----------|:-------------:|
-|  | Messa do invertor |
+| Items |
+|----------|
+|  |
  
 
  
