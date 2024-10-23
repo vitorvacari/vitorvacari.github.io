@@ -9,6 +9,10 @@
 |----------|
 | Tipo: *Accesorio* |
 | Dica de ferramenta: *permite voar, correr super rápido e mobilidade extre no gelo 8% de aumento na velocidade de movimento oferece a habilidadede andar sobre as águas, mel e lava Conced imunidade a blocos de fogo e 7 segundos de imunidade á lava e Reduz o dano causado pelo toque na lava* |
+| Raridade: *Lime* |
+| Preço de venda: *15 moedas de platinha* | 
+| Para liberar esse item no modo jornada é nessesario 1 unidade desse item |
+
 
 **Requisitos Para Esse Craft**
 
