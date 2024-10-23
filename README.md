@@ -7,8 +7,8 @@
  
 | Estatísticas | 
 |----------|
-| Tipo: Accesorio |
-| Dica de ferramenta: permite voar, correr super rápido e mobilidade extre no gelo 8% de aumento na velocidade de movimento oferece a habilidadede andar sobre as águas, mel e lava Conced imunidade a blocos de fogo e 7 segundos de imunidade á lava e Reduz o dano causado pelo toque na lava |
+| Tipo: *Accesorio* |
+| Dica de ferramenta: *permite voar, correr super rápido e mobilidade extre no gelo 8% de aumento na velocidade de movimento oferece a habilidadede andar sobre as águas, mel e lava Conced imunidade a blocos de fogo e 7 segundos de imunidade á lava e Reduz o dano causado pelo toque na lava* |
 
 **Requisitos Para Esse Craft**
 
