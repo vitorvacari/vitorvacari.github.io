@@ -1,4 +1,4 @@
-# Arvore de Craft da TerraSpark
+                                                                                   #TerraSpark
 
 
 ![TreeaSpark](https://github.com/user-attachments/assets/d8bb6969-5ee4-4444-a334-d0e480910a7a)
@@ -21,7 +21,8 @@
 
 | Items |
 |----------|
-|  |
+| Perna de lava |
+| Botas Frostspark |
  
 
  
