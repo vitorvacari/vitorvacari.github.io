@@ -14,17 +14,7 @@
 | Para liberar esse item no modo jornada é nessesario 1 unidade desse item |
 
 
-**Requisitos Para Esse Craft**
-| Messas |
-|-------------|
-| Oficna do consetador |
-
-| Items |
-|----------|
-| Perna de lava |
-| Botas Frostspark |
-
-
+**Arvore de Craft**
 
 ![image](https://github.com/user-attachments/assets/ce1c8d35-8fab-4354-8eef-0ea1b2aeda9c)
 
